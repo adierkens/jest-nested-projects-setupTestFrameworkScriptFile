@@ -1,3 +1,4 @@
+https://github.com/facebook/jest/issues/5938
 
 This project demonstrates a bug in jest when using multiple packages and a setupTestFrameworkScriptFile file.
 
